@@ -1,0 +1,12 @@
+The Lord is Good 
+All The time
+Let God be Praise
+Welcome Home 
+Sweet Home
+I want to be able to find a certain string which was introduced in any commit in any branch, how can I do that? I found something (that I modified for Win32), but git whatchanged doesn't seem to be looking into the different branches (ignore the py3k chunk, it's just a msys/win line feed fix
+python -c "exec(\"import sys,msvcrt,os\nmsvcrt.setmode(sys.stdout.fileno(), os.O_BINARY)\nfor l in sys.stdin: print(l.split()[1])\")" | \
+xargs -i% git show origin % -- <file>
+Walker
+Come home Now
+It is a command
+
