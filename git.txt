@@ -12,3 +12,4 @@ keep striving and you will succeeed
 AMEN
 On branch master
 nothing to commit, working tree clean
+I am adding New things to my blog
