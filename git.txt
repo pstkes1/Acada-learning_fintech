@@ -10,3 +10,5 @@ When you want peace in your home you work for it
 If will seem like you are not working, do not give up
 keep striving and you will succeeed
 AMEN
+On branch master
+nothing to commit, working tree clean
