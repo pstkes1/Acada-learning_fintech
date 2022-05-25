@@ -11,3 +11,4 @@ If will seem like you are not working, do not give up
 keep striving and you will succeeed
 AMEN
 I am adding a new line to the file
+I added this line on new feature branch, so see it
