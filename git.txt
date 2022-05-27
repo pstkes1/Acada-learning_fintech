@@ -1,3 +1,20 @@
+<<<<<<< HEAD
 You have been added to a team in your new work place
 you guys will meet every Thursday 7pm and Sundays 1pm
 Take note you are the Secretary of the group
+=======
+There are many reasons why married people cheat. Upwards of 60% of married couples are impacted by infidelity.
+Frustration in the marriage is one common trigger; the cheater may make several attempts to solve problems to no avail. Maybe they had second thoughts about getting married or they were jealous over the attention is given to a new baby and neither had the skill set to communicate these feelings.
+
+Perhap trying spouse has childhood baggage — neglect, abuse, or a parent who chated — that ierferes wth his r her ability to maitaina co the attenton immitted relationship. Less often, the cheater doesn't value monogamy, lacks empathy, or simply doesn't care about the consequences.
+
+We will take a look at a number of risk factors and causes for cheating, but it's important to point out upfront that a partner doesn't cause their spouse to cheat. Whether it was a cry for help, an exit strategy, or a means to get revenge after being cheated on themselves, he cheater alone s resposible for cheatin. ting
+There is no good reason for cheating than when one partner is feeling left out
+When cheating appear in a home, there is no joy again
+When you want peace in your home you work for it
+If will seem like you are not working, do not give up
+keep striving and you will succeeed
+AMEN
+I am adding a new line to the file
+I added this line on new feature branch, so see it
+>>>>>>> New_feature
